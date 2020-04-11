@@ -1,2 +1,2 @@
-# Class-25
-A starter Angry Birds game.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
